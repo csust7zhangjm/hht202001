@@ -1,7 +1,4 @@
 # hht202001
 
-Jianming Zhang*, Haitao Huang, Xiaokang Jin, Li-Dan Kuang, Jin Zhang. Siamese Visual Tracking based on Criss-Cross Attention and Improved Head Network
+Jianming Zhang*, Haitao Huang, Xiaokang Jin, Li-Dan Kuang, Jin Zhang. Siamese visual tracking based on criss-cross attention and improved head network. Multimedia Tools and Applications, 2023, DOI: 10.1007/s11042-023-15429-3.
 
-Submitted to Journal of Real-Time Image Processing
-
-If the above manuscript is accepted, the code and data to the manuscript will be publicly available for free.
